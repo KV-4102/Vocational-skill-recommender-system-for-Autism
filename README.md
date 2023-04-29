@@ -1,2 +1,2 @@
 # Vocational-skill-recommender-system-for-Autism
-This is a recommender system that recommends Vactional skillsets to people suffering from Autism based on parameters like age,gender,severity and level of autism
+This Recommender System uses the data like age, gender and the value of the autistic person on the The DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition) Spectrum. This indicates the severity and type of autism that the person suffers from. Using these values, our recommender system suggests vocational skillsets that might suit the autistic person
